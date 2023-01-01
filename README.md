@@ -1,2 +1,12 @@
-# CodeClause_Personal-Portfolio-Website
-I developed this website by using HTML,CSS and JAVASCRIPT.
+HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
+=======
+![Peek 2022-01-24 11-06](https://app.flonnect.com/view/video/kateakshay165/Flonnect_2023-01-01_2f69ed86-38be-4fac-8e43-4fca417baeef)
+
+# Tools used #
+* HTML, CSS and JavaScript
+* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+* [Font Awesome 5](https://fontawesome.com/)
+* [google map](https://www.embed-map.com/)
+
+This is the [live demo](https://app.flonnect.com/view/video/kateakshay165/Flonnect_2023-01-01_2f69ed86-38be-4fac-8e43-4fca417baeef) of the project . 
+
