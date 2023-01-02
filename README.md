@@ -1,6 +1,6 @@
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
-Visit [Live Website](https://app.flonnect.com/view/video/kateakshay165/Flonnect_2023-01-01_2f69ed86-38be-4fac-8e43-4fca417baeef) of Project
+Visit [Live Website](https://bit.ly/AkshayKate-Portfolio) of Project
 
 # Tools used #
 * HTML, CSS and JavaScript
