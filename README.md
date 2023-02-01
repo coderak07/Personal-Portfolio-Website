@@ -4,7 +4,7 @@ This is an project given in **"Internship"** ,built using **HTML5 and CSS3**.
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="](https://p8rjo7.csb.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://p8rjo7.csb.app/">**Visit Now** 🚀</a>
 
 <br>
 
